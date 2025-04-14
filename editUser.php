@@ -8,6 +8,7 @@
 	<link rel="stylesheet" type="text/css" href="css/styleku.css">
 	<script src="bootstrap/js/bootstrap.js"></script>
 </head>
+
 <body>
 	<?php
 	require "fungsi.php";
